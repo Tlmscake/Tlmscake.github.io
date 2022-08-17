@@ -1,0 +1,2 @@
+webpackJsonp([5],{zhEu:function(e,t,s){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("p",[this._v("传值界面")]),this._v(" "),t("p",[this._v(this._s(this.$route.query.id))])])},staticRenderFns:[]},i=s("VU/8")({name:"value"},n,!1,null,null,null);t.default=i.exports}});
+//# sourceMappingURL=5.097c316d3504eea5bc23.js.map
